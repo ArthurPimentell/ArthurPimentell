@@ -11,9 +11,9 @@
     <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelypcosta&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 <div>
-    <img height="30" width="30" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg](https://icon-library.com/images/java-icon-images/java-icon-images-6.jpg)" />
-    <img height="30" width="30" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg](https://icon-library.com/images/java-icon-images/java-icon-images-6.jpg)" />
-    <img height="30" width="30" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg](https://icon-library.com/images/java-icon-images/java-icon-images-6.jpg)" />   
+    <img height="30" width="30" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img height="30" width="30" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+    <img height="30" width="30" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />   
 </div>
 
 ##
