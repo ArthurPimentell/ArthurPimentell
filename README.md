@@ -12,7 +12,7 @@
 </div>
 <div>
     <i class="fa-brands fa-java"></i>
-    <img height="30" width="70" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+    <img height="30" width="70" src="[https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white](https://cdn-icons-png.flaticon.com/512/10090/10090320.png)" />
     <img height="30" width="70" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />   
 </div>
 
