@@ -2,19 +2,27 @@
 
 - 🎓 Ulltimamente estou cursando o 3º período de Ciências da Computação na UNIPÊ - PB
 - 📚 Focando mais a fundo Java, Python, C e C#.
-- 💻 Me indentifico mais com a área de Back-End, entretanto tendo conhecimento básico na área do Front-End.
+- 💻 Me indentifico mais com a área Back-End, entretanto tendo conhecimento básico na área do Front-End.
 - 📥 Contato por e-mail: pimentelarthur19@hotmail.com
 
 <div>
+    <img height="100em" src="https://github-readme-stats.vercel.app/api?username=ArthurPimentell&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> 
     <a href="https://github.com/ArthurPimentell">
-    <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelypcosta&layout=compact&langs_count=16&theme=dracula"/>
+    <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurPimentell&layout=compact&langs_count=16&theme=dark"/>
 </div>
+    
 <div>
-    <img height="30" width="70" src="[https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white/https://cdn-icons-png.flaticon.com/512/10090/10090320.png](https://cdn-icons-png.flaticon.com/512/226/226777.png)" />
-    <img height="30" width="70" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white/https://cdn-icons-png.flaticon.com/512/10090/10090320.png" />
-    <img height="30" width="70" src="[https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white/https://cdn-icons-png.flaticon.com/512/10090/10090320.png](https://macmagazine.com.br/wp-content/uploads/2012/09/26-java-logo.jpg)" />
-    <img height="30" width="70" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white/https://cdn-icons-png.flaticon.com/512/10090/10090320.png" />
-    <img height="30" width="70" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />   
+    <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+    <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+    <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+    <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+    <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+    <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
+    <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
+       
+   
+   
+   
 </div>
 
 ##
