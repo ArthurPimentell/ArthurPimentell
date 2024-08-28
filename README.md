@@ -1,6 +1,6 @@
 ### Olá, sou Arthur Pimentel
 
-- 🎓 Ulltimamente estou cursando o 3º período de Ciências da Computação na UNIPÊ - PB
+- 🎓 Atualmente estou cursando o 6º período de Ciências da Computação na UNIPÊ
 - 📚 Focando mais a fundo Java, Python, C e C#.
 - 💻 Me indentifico mais com a área Back-End, entretanto tendo conhecimento básico na área do Front-End.
 - 📥 Contato por e-mail: pimentelarthur19@hotmail.com
