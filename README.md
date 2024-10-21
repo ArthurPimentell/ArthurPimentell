@@ -8,11 +8,6 @@
 
 - 📥 Contato por e-mail: pimentelarthur19@hotmail.com
 
-<div>
-    <img height="100em" src="https://github-readme-stats.vercel.app/api?username=ArthurPimentell&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> 
-    <a href="https://github.com/ArthurPimentell">
-    <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurPimentell&layout=compact&langs_count=16&theme=dark"/>
-</div>
     <h2>Linguagens de Programação e Ferramentas</h2>
 <div>
     <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
