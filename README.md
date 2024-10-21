@@ -1,8 +1,11 @@
 ### Olá, sou Arthur Pimentel
 
 - 🎓 Atualmente estou cursando o 6º período de Ciências da Computação na UNIPÊ
-- 📚 Focando mais a fundo Java, Python, C e C#.
+
+- 📚 Conhecimento Java, Python,
+
 - 💻 Me indentifico mais com a área Back-End, entretanto tendo conhecimento básico na área do Front-End.
+
 - 📥 Contato por e-mail: pimentelarthur19@hotmail.com
 
 <div>
@@ -10,12 +13,11 @@
     <a href="https://github.com/ArthurPimentell">
     <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurPimentell&layout=compact&langs_count=16&theme=dark"/>
 </div>
-    
+    <h2>Linguagens de Programação e Ferramentas</h2>
 <div>
     <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
     <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
     <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-    <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
     <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
     <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
        
