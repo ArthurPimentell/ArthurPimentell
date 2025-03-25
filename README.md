@@ -6,7 +6,7 @@
 
 - 💻 Me indentifico mais com a área Back-End, entretanto tendo conhecimento básico na área do Front-End.
 
-- 📥 Contato por e-mail: pimentelarthur19@hotmail.com
+- 📥 Contato por e-mail: pimentelarthur10@gmail.com
 
     <h2>Linguagens de Programação e Ferramentas</h2>
 <div>
@@ -15,11 +15,9 @@
     <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
     <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
     <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-       
-   
-   
-   
 </div>
+
+![Image](https://github.com/user-attachments/assets/f0bdb991-56bd-48e3-b110-a2ade1286c23)
 
 ##
 
