@@ -1,4 +1,5 @@
-  <h2><b>Arthur Pimentel</b><br>Full-stack Developer Junior</h2>
+<div align="center">
+ <h2><b>Arthur Pimentel</b><br>Full-stack Developer Junior</h2>
   <img width="140px" src="https://github.com/user-attachments/assets/e788bf12-860c-442d-a369-8225acb29439">  
 </div>
 <hr>
