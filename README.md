@@ -8,8 +8,8 @@
 <hr>
 <h3><b>Analysis:</b></h3>
 <div align="center">
-    <img height="150px"src="https://github-readme-stats.vercel.app/api?username=ArthurPimentell&show_icons=true&theme=dark&hide&title_color=020201&text_color=020201F&icon_color=020201&border_color=020201&bg_color=0499ef">
-    <img height="150px"src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurPimentell&compact&langs_count=8&theme=dark&hide&title_color=020201&text_color=020201&icon_color=020201&border_color=020201&bg_color=0499ef">
+    <img height="190px"src="https://github-readme-stats.vercel.app/api?username=ArthurPimentell&show_icons=true&theme=dark&hide&title_color=020201&text_color=020201F&icon_color=020201&border_color=020201&bg_color=0499ef">
+    <img height="190px"src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurPimentell&compact&langs_count=8&theme=dark&hide&title_color=020201&text_color=020201&icon_color=020201&border_color=020201&bg_color=0499ef">
 </div>
 <hr>
 <h3>languages and FrameWorks:</h3>
