@@ -9,8 +9,7 @@
 <h3><b>Analysis:</b></h3>
 <div align="center">
     <img height="150px"src="https://github-readme-stats.vercel.app/api?username=ArthurPimentell&show_icons=true&theme=dark&hide&title_color=020201&text_color=020201F&icon_color=020201&border_color=020201&bg_color=0499ef">
-    <img height="150px"src="https://github-readme-streak-stats.herokuapp.com?user=ArthurPimentell&background=0499ef&dates=050402&sideLabels=050402&currStreakLabel=050402&sideNums=050402&fire=050402&ring=050402&stroke=000000">
-    <br><img height="270px"src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurPimentell&compact&langs_count=8&theme=dark&hide&title_color=020201&text_color=020201&icon_color=020201&border_color=020201&bg_color=0499ef">
+    <img height="150px"src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurPimentell&compact&langs_count=8&theme=dark&hide&title_color=020201&text_color=020201&icon_color=020201&border_color=020201&bg_color=0499ef">
 </div>
 <hr>
 <h3>languages and FrameWorks:</h3>
